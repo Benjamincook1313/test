@@ -9,6 +9,7 @@ function App() {
   console.log("hello world")
 
   // comment
+  // another comment
 
   return (
     <>
