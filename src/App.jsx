@@ -8,9 +8,17 @@ function App() {
 
   console.log("hello world")
 
+  // comment
+
   return (
     <>
       <h1>New Project</h1>
+      <nav>
+        <a href="">Home</a>
+        <a href="">about</a>
+        <a href="">skills</a>
+        <a href="">projects</a>
+      </nav>
     </>
   )
 }
