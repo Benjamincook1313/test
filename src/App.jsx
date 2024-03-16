@@ -10,6 +10,7 @@ function App() {
 
   // comment
   // another comment
+  // you can do it
 
   return (
     <>
