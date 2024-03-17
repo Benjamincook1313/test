@@ -11,6 +11,7 @@ function App() {
   // comment
   // another comment
   // you can do it
+  // code something
 
   return (
     <>
